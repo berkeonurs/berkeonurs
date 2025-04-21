@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Berke Onur Süneçli</h1>
-<h3 align="center">I have been interested in software since my primary school years. I started my software adventure by creating a simple website and I have developed many projects so far. I mainly work as a Backend Developer and work on the Frontend. I continue to develop it. You can run many projects in Frontend(Flutter,Javascript), Backend(Php,MySQL,Node.JS). I developed using . I continue to learn new technologies and improve myself.</h3>
+<h3 align="center">I have been passionate about software development since my primary school years. My journey started with a simple website, and I have developed many projects since then. I primarily work as a Backend Developer, while continuously improving myself in Frontend development as well.
+I am highly proficient in PHP (especially Laravel) and Flutter. I have also developed various projects using JavaScript, Node.js, and MySQL.
+I am well-versed in the Git version control system and actively use GitHub and Bitbucket in team-based projects.
+I have hands-on experience in developing RESTful APIs, designing relational and NoSQL databases, building mobile applications, integrating WebSocket for real-time communication, and working on real-time data operations.
+In addition, I have actively used Firebase services, including Authentication, Realtime Database, Cloud Firestore, and Firebase Storage, in several mobile and web projects.
+I am always eager to learn new technologies and continuously improve myself.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
